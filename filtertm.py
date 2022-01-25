@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Ehsankancifer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ehsankancifer/Ehsankancifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+print ("lm ehsan kancifer")
+print ("                    ehsan      kancifer")
+print ("            ")
+print ("                    n                n              n")
+print ("donbale chi hasti?")
+print ("                       ‌   ‌ ‌      ")
+print ("linkes1 ‌‌‌ ‌ ‌‌ ‌ ‌ ‌ ‌")
+print ("1.2.3.3.3.5.6.2.6.7.3.2.6.6.2.6.1.6.3.6.xxxxxxxxxx.xxxxxx.xxxxxxs.")
+print ("      linkes2                           ")
+print ("1.3.4.4.5.6.3.5.5.2.5.6.3.8x.5.6.x x.x.c.c.x.x.c.c..c3.")
+print ("linke3                       ")
+print ("1.2.3.4.4.6.4.6.7.3.6.2.7.2.6
+3.6.xxxxxxxxxxxxsxccxccc.6.6")
+print ("tamame      ")
+print ("       E                ")
+print ("               H           ")
+print ("                        S    ")
+print ("                              A")
+print ("       N ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌‌ ‌   ")
+print ("              kancifer❤️🥀        .")
+print ("//////////////////////////////////////////////////")
+print (    "ta ape baeedi montazer bashin ❤️🥀      ")
+print ("         EhSaN         ")
